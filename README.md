@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nurullah</h1>
 <h3 align="center">Management Information Systems student at Istanbul Aydin University.</h3>
 
+- 🌱 I’m currently learning **C# and other programming languages**
+
+- 📫 How to reach me **nurullah.coskun@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nurullah-coşkun-6b4a49279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurullah-coşkun-6b4a49279" height="30" width="40" /></a>
@@ -18,4 +22,4 @@
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+[![](https://visitcount.itsvg.in/api?id=AsNott&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
