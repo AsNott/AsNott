@@ -21,5 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asnott&" alt="asnott" /></p>
 
 
-
-[![](https://visitcount.itsvg.in/api?id=AsNott&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AsNott&label=Profile%20Views&icon=1&pretty=false" />
+</a>
